@@ -10,7 +10,7 @@ Admin 2 : Amir | Mystic
 
 نسخه :1.4.0
 
-لینک دانلود برای تمامی پلتفرم ها
+<span style="color: green;">لینک دانلود برای تمامی پلتفرم ها</span>
 ## 📥 Direct Download
 
 <div align=left>
