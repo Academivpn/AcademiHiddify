@@ -7,11 +7,9 @@ Owner: Puriya @Puriya73
 Admin 1 : NaseR | Alone
 Admin 2 : Amir | Mystic
 
-
-لینک دانلود برای تمامی پلتفرم ها
-
 نسخه :1.4.0
 
+لینک دانلود برای تمامی پلتفرم ها
 ## 📥 Direct Download
 
 <div align=left>
