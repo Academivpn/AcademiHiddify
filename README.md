@@ -2,14 +2,13 @@
 
 ## Telegram: @Academi_vpn
 
-## لینک دانلود هدیفای برای تمامی پلتفرم ها
-
 ## Owner: Puriya @Puriya73
 
 ## Admin 1 : NaseR | Alone
 ## Admin 2 : Amir | Mystic
 
 
+## لینک دانلود برای تمامی پلتفرم ها
 
 ## نسخه :1.4.0
 
