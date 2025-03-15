@@ -10,14 +10,14 @@ Admin 2 : Amir | Mystic
 
 نسخه :1.4.0
 
-:red_circle: لینک دانلود برای تمامی پلتفرم ها :red_circle:
+:red_circle: لینک دانلود برای تمامی سیستم عامل ها  ها :red_circle:
 ## 📥 Direct Download
 
 <div align=left>
 <table>
     <thead align=left>
         <tr>
-            <th>Platform</th>
+            <th>All OS</th>
             <th>Download</th>
         </tr>
     </thead>
