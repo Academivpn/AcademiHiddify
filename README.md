@@ -1,16 +1,16 @@
 ## Academivpn | Hiddfy App
 
-## Telegram: @Academi_vpn
+Telegram: @Academi_vpn
 
-## Owner: Puriya @Puriya73
+Owner: Puriya @Puriya73
 
-## Admin 1 : NaseR | Alone
-## Admin 2 : Amir | Mystic
+Admin 1 : NaseR | Alone
+Admin 2 : Amir | Mystic
 
 
-## لینک دانلود برای تمامی پلتفرم ها
+لینک دانلود برای تمامی پلتفرم ها
 
-## نسخه :1.4.0
+نسخه :1.4.0
 
 ## 📥 Direct Download
 
