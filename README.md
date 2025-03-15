@@ -17,7 +17,7 @@ Admin 2 : Amir | Mystic
 <table>
     <thead align=left>
         <tr>
-            <th>OS</th>
+            <th>Platform</th>
             <th>Download</th>
         </tr>
     </thead>
