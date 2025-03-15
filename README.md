@@ -1,6 +1,12 @@
-## AcademiHiddify
-لینک دانلود هدیفای برای تمامی پلتفرم ها
-## Admin : NaseR | Alone
+## Academivpn | Hiddfy App
+
+
+## لینک دانلود هدیفای برای تمامی پلتفرم ها
+
+## Owner: Puriya @Puriya73
+
+## Admin 1 : NaseR | Alone
+## Admin 2 : Amir | Mystic
 
 
 
