@@ -5,6 +5,7 @@ Telegram: @Academi_vpn
 Owner: Puriya @Puriya73
 
 Admin 1 : NaseR | Alone
+
 Admin 2 : Amir | Mystic
 
 نسخه :1.4.0
