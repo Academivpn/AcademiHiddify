@@ -2,6 +2,10 @@
 لینک دانلود هدیفای برای تمامی پلتفرم ها
 ## Admin : NaseR | Alone
 
+
+
+## نسخه :1.4.0
+
 ## 📥 Direct Download
 
 <div align=left>
