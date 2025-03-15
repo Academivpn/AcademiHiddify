@@ -1,4 +1,4 @@
-## Academivpn | Hiddfy App
+## Academivpn | Hiddify App
 
 Telegram: @Academi_vpn
 
