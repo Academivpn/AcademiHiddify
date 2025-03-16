@@ -70,4 +70,4 @@ Admin 2 : Amir | Mystic
 
 </div>
 
-با تشکر از گیت هاب و ادمین [هدیفای](https://github.com/hiddify)
+با تشکر از گیت هاب و گیت هاب [هدیفای](https://github.com/hiddify)
