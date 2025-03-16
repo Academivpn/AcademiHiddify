@@ -1,4 +1,5 @@
-![IMG_20250316_153058_698](https://github.com/user-attachments/assets/761c98c1-f939-4329-b3a2-48b7991186eb)
+![IMG_20250316_154727_254](https://github.com/user-attachments/assets/5383c1f8-d04f-48e8-bfbb-1148a6d2c7f1)
+
 
 
 Telegram: @Academi_vpn
