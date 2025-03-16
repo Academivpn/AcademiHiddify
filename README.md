@@ -3,7 +3,7 @@
 
 
 
-Telegram: @Academi_vpn
+[Telegram Channel](https://t.me/Academi_vpn)
 
 Owner: Puriya @Puriya73
 
